@@ -14,7 +14,7 @@ API_HASH = getenv("2af932be312ce9c4e4ecb84bce09109e")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("8922163050:AAEhAgKEt3W5peLBhrT0inFEk1ONOat5YWU")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ㅤ❛𝐋ۙ𝛊geř 終.")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "PRIYAXMUSIC")
 # --------------------------------------------------------
